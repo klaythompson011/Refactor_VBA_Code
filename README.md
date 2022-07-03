@@ -27,7 +27,7 @@ Lastly, a 'For' loop was created to format the results. The ‘Return’ column 
 
 ![VBA_Challenge_Code4](Resources/VBA_Challenge_Code4.png)
 
-In 2017, all stock, with the exception of TERP, showed positive yearly returns. By contrast, in 2018, only two stocks, ENPH and RUN, showed positive yearly returns. 
+Based on yearly return, stock performace was stronger in 2017 as compared to 2018. In 2017, all stock, with the exception of TERP, showed positive yearly returns. By contrast, in 2018, only two stocks, ENPH and RUN, showed positive yearly returns. 
 
 After refactoring the code, the time to run the script decreased. The original code took 0.90625 seconds to run for 2017 and after refactoring the code it took 0.1171875 seconds. The original code took 0.6953125 seconds to run for 2018 and after refactoring the code it took 0.109375 seconds. 
 
